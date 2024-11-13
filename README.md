@@ -1,8 +1,10 @@
-hey i'm arjun chatterjee.
+hey i'm arjun.
 
 freshman @ uiuc studying cs & business.
 
 i like to build cool things.
+
+interests: ai/ml/neural networks, quantitative finance, autonomous solutions for vehicles
 
 contact: arjunc4[at]illinois[dot]edu 
 
