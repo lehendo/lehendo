@@ -1,6 +1,6 @@
 hey i'm arjun chatterjee.
 
-studying cs & business @ uiuc.
+freshman @ uiuc studying cs & business.
 
 i like to build cool things.
 
