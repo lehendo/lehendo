@@ -4,7 +4,7 @@ freshman @ uiuc studying cs & business.
 
 i like to build cool things.
 
-interests: ai/ml/neural networks, quantitative finance, autonomous solutions for vehicles
+interests: ai/ml, high frequency trading & algorithms
 
 contact: arjunc4[at]illinois[dot]edu 
 
