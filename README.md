@@ -1,10 +1,10 @@
 hey i'm arjun.
 
-freshman @ uiuc studying cs & business.
+freshman @ uiuc studying cs.
 
 i like to build cool things.
 
-interests: ml infra, hft algos/research
+interests: ml infra, quantitative finance, computer vision & nlp
 
 contact: arjunc4[at]illinois[dot]edu 
 
