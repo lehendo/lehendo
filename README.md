@@ -4,7 +4,7 @@ freshman @ uiuc studying cs.
 
 i like to build cool things.
 
-interests: ml infra, defi/quant
+interests: ml infra, defi/quant, computer systems and architecture
 
 contact: arjunc4[at]illinois[dot]edu 
 
