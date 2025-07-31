@@ -1,8 +1,6 @@
 hey i'm arjun.
 
-freshman @ uiuc studying cs.
-
-i like to build cool things.
+sophomore @ uiuc studying cs.
 
 interests: ml infra, defi/quant, computer systems and architecture
 
