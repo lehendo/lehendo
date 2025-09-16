@@ -1,6 +1,6 @@
 Hi i'm arjun.
 
-Sophomore @ uiuc studying cs.
+Undergrad @ uiuc studying cs.
 
 <!---
 lehendo/lehendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
